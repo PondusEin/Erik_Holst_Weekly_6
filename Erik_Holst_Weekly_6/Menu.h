@@ -1,5 +1,7 @@
 #pragma once
-
+#include <fstream>
+#include <string>
+#include <iostream>
 
 void task1();
 void task2();

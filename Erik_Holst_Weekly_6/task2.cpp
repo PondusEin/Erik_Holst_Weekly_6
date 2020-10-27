@@ -1,5 +1,5 @@
 #include "task2.h"
-
+#include "menu.h"
 void task2()
 {
 	//make files with studentsa and score name?

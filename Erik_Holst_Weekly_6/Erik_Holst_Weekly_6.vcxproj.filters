@@ -41,11 +41,19 @@
     <ClInclude Include="task3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="task4.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Menu.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="StoryEmpty.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Input.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Output.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
