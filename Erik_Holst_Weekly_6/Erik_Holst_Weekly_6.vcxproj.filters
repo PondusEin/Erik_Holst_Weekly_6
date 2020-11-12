@@ -55,5 +55,8 @@
     <Text Include="Output.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="task2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
