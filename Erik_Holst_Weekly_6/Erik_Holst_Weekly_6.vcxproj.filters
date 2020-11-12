@@ -32,15 +32,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="task1.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="task2.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="task3.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Menu.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -56,6 +47,9 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="task2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Baby.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
